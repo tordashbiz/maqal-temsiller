@@ -1,1 +1,3 @@
-# maqal-temsiller
+# ماقال تەمسىللەر
+
+<span dir="rtl">ئۇيغۇرچە ماقال تەمسىللەر</span>
